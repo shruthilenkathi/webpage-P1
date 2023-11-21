@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.brand-image {
+    width: 20%;
+}
+
+.bg-home-image1 {
+    background-image: url("https://res.cloudinary.com/ddrjgxh6e/image/upload/v1700376261/shopping-bag-cart_zemvot.jpg");
+    background-size: cover;
+    height: 50vh;
+}
+
+.home-page-heading {
+    color: #3b444b;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.text-container-home1 {
+    padding: 40px;
+}
+
+.list-home-edit {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.products-card-image {
+    width: 45%;
+    border-radius: 17px;
+}
+
+.card-heading-products {
+    color: black;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card-discrption {
+    font-family: "Roboto";
+    font-size: 19px;
+    color: gray;
+}
+
+.card-products {
+    text-align: center;
+    padding: 20px;
+}
+
+.headin-products {
+    color: black;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.wcu-card-image {
+    width: 55%;
+}
+
+.wcu-section-heading {
+    color: black;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.wcu-card {
+    text-align: center;
+}
+
+.wcu-card-title {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.wcu-card-description {
+    font-family: "Roboto";
+    font-size: 19px;
+    color: gray;
+}
+
+.offers {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.image1 {
+    width: 50%;
+    height: 50%;
+    border-radius: 60px;
+}
+
+.text-hori {
+    padding: 10px;
+}
+
+.heading {
+    color: #cced00;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.pragraph1 {
+    color: #9aa5b1;
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+p {
+    color: #9aa5b1;
+    font-family: 'Roboto';
+    font-size: 18px;
+}
+
+h1 {
+    color: #cced00;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.icon1 {
+    color: #9aa5b1;
+    width: 25px;
+    height: 25px;
+    padding: 7px;
+}
+
+.bg-container {
+    background-color: #0d2436;
+    background-size: cover;
+}
+
+.bg-container1 {
+    background-color: #001c32;
+    background-size: cover;
+}
+
+.card-contact {
+    margin: 20px;
+}
+
+.card-contact1 {
+    margin-top: 50px;
+    margin-left: 18px;
+}
